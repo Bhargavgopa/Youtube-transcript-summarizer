@@ -1,1 +1,2 @@
 # Youtube-transcript-summarizer
+The YouTube Transcript Summarizer is an AI-powered tool designed to extract, process, and summarize transcripts from YouTube videos, enabling users to quickly grasp the key points without watching the entire video. With the exponential growth of video content on YouTube, users often struggle to efficiently extract relevant information from lengthy videos. This project addresses that challenge by combining YouTube Data API, Natural Language Processing (NLP) techniques, and text summarization algorithms to deliver concise, meaningful summaries.
